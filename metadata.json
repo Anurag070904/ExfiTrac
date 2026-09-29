@@ -1,0 +1,6 @@
+{
+  "name": "LIFEOS — Personal Productivity & Expense Manager",
+  "description": "All-in-one personal operating system combining daily task & habit tracking with personal expense and finance management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
